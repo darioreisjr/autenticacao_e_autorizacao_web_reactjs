@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ##  🛍️ Sistema Ecommerce (Sugestão) 🛍️ 
 
 Este projeto parece ser um sistema completo de ecommerce, provavelmente desenvolvido com React, utilizando Vite como ferramenta de build e gerenciamento de pacotes com PNPM. A estrutura sugere um desenvolvimento focado em componentes, boa organização de rotas, separação de  lógica de autenticação e um design estruturado. 
